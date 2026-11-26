@@ -12,7 +12,7 @@ Most "auto screenshots" catch a random frame from behind the character. Keepsake
 
 ![Example keepsake postcard](example-postcard.png)
 
-*Example card from the Ocean Jelly diorama: Lena the lifeguard checking on Old Tom after a real in-game rescue. The camera was placed by `KeepsakeLens.faceOnCamera` from Lena's orientation, framing her and Old Tom together. For this documentation sample the beach was staged quiet (the sunbathers who lie beside the rescue spot were sent home before the capture).*
+*Example card from the Ocean Jelly diorama: ZYN digging for treasure on the little island, a real in-game moment captured at 4K. The camera was placed by `KeepsakeLens.faceOnCamera` from ZYN's orientation, framing him and his shovel.*
 
 ## Gallery
 
