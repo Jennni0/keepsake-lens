@@ -1,0 +1,8 @@
+{
+  "name": "keepsake-lens",
+  "description": "Turns the best moment of a session in a 3D or canvas world into a keepsake postcard: logs real moments, picks the best, frames a face-on camera, captures with the UI hidden and composes a captioned postcard.",
+  "version": "1.0.0",
+  "author": { "name": "Jennifer M" },
+  "license": "MIT",
+  "keywords": ["postcard", "screenshot", "photo-mode", "threejs", "babylonjs", "webgpu", "gamedev"]
+}
