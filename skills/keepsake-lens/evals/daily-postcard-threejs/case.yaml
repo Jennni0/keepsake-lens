@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: daily-postcard-threejs
+expected_outcome: |
+  Adds a moment log fed by real game events, picks the day's best with variety across days, frames a face-on camera from the villager's orientation (with the model's forward axis), captures the canvas with the UI hidden, composes a captioned postcard from logged facts only, and keeps an album.

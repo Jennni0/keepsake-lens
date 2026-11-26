@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: readme-preview-cards
+expected_outcome: |
+  Captures real frames headlessly from the page with WebGPU enabled (handling a black canvas with an offscreen mode or a headed run), frames faces, composes three postcards, reviews them on a contact sheet, and clearly labels them as mock-ups made from real captures because the feature doesn't exist yet.

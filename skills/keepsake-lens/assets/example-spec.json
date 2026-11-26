@@ -1,0 +1,50 @@
+[
+  {
+    "photo": "example-shot.png",
+    "out": "out/lena-to-the-rescue.png",
+    "title": "Lena to the rescue",
+    "meta": "Day 4 · 10:40 · The beach",
+    "note": "Old Tom capsized off the beach. Lena swam out, towed him in, and checked him over on the sand. All fine.",
+    "tag": "Brave moment",
+    "warmth": 0.3,
+    "focus": [
+      0.4,
+      0.38
+    ],
+    "zoom": 1.12,
+    "stamp": {
+      "label": "RESCUE",
+      "sky": [
+        150,
+        200,
+        225
+      ],
+      "sea": [
+        235,
+        220,
+        190
+      ]
+    },
+    "postmark": {
+      "top": "OCEAN JELLY",
+      "middle": "DAY 4",
+      "bottom": "2026"
+    },
+    "address": [
+      "To: Future Me",
+      "C/O The Keepsake Box",
+      "Ocean Jelly Beach",
+      "Day 4 · 2026"
+    ],
+    "footer": "Keepsake Lens · your day in a postcard",
+    "motif": "rescue",
+    "badge": "Hero",
+    "accent": [
+      200,
+      76,
+      62
+    ],
+    "kicker": "Wish You Were Here",
+    "scale": 1
+  }
+]

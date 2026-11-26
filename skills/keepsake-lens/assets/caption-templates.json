@@ -1,0 +1,9 @@
+{
+  "rescue":    { "title": "{rescuer} to the rescue", "note": "{swimmer} got into trouble near {place}. {rescuer} towed them in and checked them over. {outcome}" },
+  "record":    { "title": "{name}'s longest {activity}", "note": "{name} set a new best: {value}. {witnesses} were there to see it." },
+  "rareCatch": { "title": "A {rarity} {species}", "note": "{name} landed a {weight} {species} at {place}. Only {odds} catches are this rare." },
+  "discovery": { "title": "Found: {thing}", "note": "{name} found {thing} at {place}. {detail}" },
+  "stunt":     { "title": "{name}, {stunt}", "note": "{detail}" },
+  "scenic":    { "title": "{place} at {timeOfDay}", "note": "{detail}" },
+  "default":   { "title": "{title}", "note": "{detail}" }
+}

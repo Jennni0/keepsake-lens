@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: photo-mode-shows-backs
+expected_outcome: |
+  Explains the cause (camera placed without using the character's orientation), computes the camera position in front of the character from its rotation quaternion with a three-quarter offset, handles Babylon's forward axis and handedness, rejects cameras inside walls or outside the level, and checks the result with a facing test.
